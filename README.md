@@ -28,7 +28,7 @@ poker competitions.
 Since the algorithm is relatively recent, there are few curricular materials available to introduce
 regret-based algorithms to the next generation of researchers and practitioners in this area... [Continues but is long]
 
-ReBeL
+Combining Deep Reinforcement Learning and Search for Imperfect-Information Games (ReBeL)
 - https://arxiv.org/pdf/2007.13544.pdf
 - Abstract:
 The combination of deep reinforcement learning and search at both training and test
@@ -37,7 +37,7 @@ settings and perfect-information games, best exemplified by AlphaZero. However,
 prior algorithms of this form cannot cope with imperfect-information games. This
 paper presents ReBeL, a general framework for self-play reinforcement learning
 and search that provably converges to a Nash equilibrium in any two-player zerosum game. In the simpler setting of 
-- perfect-information games, ReBeL reduces to
+erfect-information games, ReBeL reduces to
 an algorithm similar to AlphaZero. Results in two different imperfect-information
 games show ReBeL converges to an approximate Nash equilibrium. We also show
 ReBeL achieves superhuman performance in heads-up no-limit Texas hold’em
