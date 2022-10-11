@@ -5,7 +5,7 @@ I am flying by the seat of my pants. I love all suggestions.
 ## Papers in consideration:
 
 Evolving Neural Networks through Augmenting Topologies
-- link: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.5457&rep=rep1&type=pdf
+- https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.5457&rep=rep1&type=pdf
 - Abstract:
 An important question in neuroevolution is how to gain an advantage from evolving neural network
 topologies along with weights. We present a method, NeuroEvolution of Augmenting Topologies (NEAT)
@@ -72,7 +72,7 @@ defeated a human professional player in the full-sized game of Go, a feat previo
 
 
 Mastering the game of Go without human knowledge (AlphaGo Zero)
-- link: https://www.nature.com/articles/nature24270
+- https://www.nature.com/articles/nature24270
 - Abstract:
 A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in
 challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. 
@@ -103,7 +103,7 @@ MuZero matched the superhuman performance of the AlphaZero algorithm that was su
 
 
 DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker
-- link: https://arxiv.org/abs/1701.01724
+- https://arxiv.org/abs/1701.01724
 - Abstract:
 Artificial intelligence has seen several breakthroughs in recent years, with games often serving as milestones.
 A common feature of these games is that players have perfect information. Poker is the quintessential game of
