@@ -4,7 +4,7 @@ I am flying by the seat of my pants. I love all suggestions.
 
 ## Papers in consideration:
 
-- Evolving Neural Networks through Augmenting Topologies
+Evolving Neural Networks through Augmenting Topologies
 - link: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.5457&rep=rep1&type=pdf
 - Abstract:
 An important question in neuroevolution is how to gain an advantage from evolving neural network
@@ -17,7 +17,7 @@ is also an important contribution to GAs because it shows how it is possible for
 and complexify solutions simultaneously, offering the possibility of evolving increasingly complex solutions
 over generations, and strengthening the analogy with biological evolution.
 
-- An Introduction to Counterfactual Regret Minimization
+An Introduction to Counterfactual Regret Minimization
 - http://modelai.gettysburg.edu/2013/cfr/cfr.pdf
 - Abstract:
 In 2000, Hart and Mas-Colell introduced the important game-theoretic algorithm of regret matching.
@@ -28,7 +28,7 @@ poker competitions.
 Since the algorithm is relatively recent, there are few curricular materials available to introduce
 regret-based algorithms to the next generation of researchers and practitioners in this area... [Continues but is long]
 
-- ReBeL
+ReBeL
 - https://arxiv.org/pdf/2007.13544.pdf
 - Abstract:
 The combination of deep reinforcement learning and search at both training and test
@@ -43,7 +43,7 @@ games show ReBeL converges to an approximate Nash equilibrium. We also show
 ReBeL achieves superhuman performance in heads-up no-limit Texas hold’em
 poker, while using far less domain knowledge than any prior poker AI.
 
-- Pluribus
+Pluribus
 - https://www.cs.cmu.edu/~noamb/papers/19-Science-Superhuman.pdf
 - Abstract
 In recent years there have been great strides in artificial intelligence (AI), with games often
@@ -56,7 +56,7 @@ this paper we present Pluribus, an AI that we show is stronger than top human pr
 in six-player no-limit Texas hold’em poker, the most popular form of poker played by humans.
 
 
-- Mastering the game of Go with deep neural networks and tree search (AlphaGo)
+Mastering the game of Go with deep neural networks and tree search (AlphaGo)
 - https://www.nature.com/articles/nature16961
 - Abstract:
 The game of Go has long been viewed as the most challenging of classic games for artificial intelligence owing to its 
@@ -70,7 +70,8 @@ Using this search algorithm, our program AlphaGo achieved a 99.8% winning rate a
 and defeated the human European Go champion by 5 games to 0. This is the first time that a computer program has 
 defeated a human professional player in the full-sized game of Go, a feat previously thought to be at least a decade away.
 
-- Mastering the game of Go without human knowledge (AlphaGo Zero)
+
+Mastering the game of Go without human knowledge (AlphaGo Zero)
 - link: https://www.nature.com/articles/nature24270
 - Abstract:
 A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in
@@ -84,7 +85,8 @@ resulting in higher quality move selection and stronger self-play in the next it
 our new program AlphaGo Zero achieved superhuman performance, winning 100–0 against the previously published, 
 champion-defeating AlphaGo.
 
-- Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (MuZero)
+
+Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (MuZero)
 - https://arxiv.org/abs/1911.08265
 - Abstract:
 Constructing agents with planning capabilities has long been one of the main challenges in the pursuit of 
